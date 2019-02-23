@@ -1,4 +1,4 @@
-# studyup
+# StudyUp!
 
 Created at BrickHacks at the Rochester Institute of Technology. The Devpost for it can be found here: https://devpost.com/software/studyup-5ezxyw. 
 
