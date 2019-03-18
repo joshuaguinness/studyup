@@ -11,7 +11,6 @@ My group and I also planned to add some unique features to this app such as an e
 The main page, seen below, shows a list of all active study sessions based on the classes that the user is enrolled in.
 
 <img src="https://github.com/joshuaguinness/studyup/edit/master/App%20Screenshots/Screenshot_20190318-121710.jpg" height="24">
-![alt text](https://github.com/joshuaguinness/studyup/edit/master/App%20Screenshots/Screenshot_20190318-121710.jpg){height="50%" width="50%"}
 
 Clicking on one of the study sessions brings you to this page seen below. This page is incomplete so far.
 
